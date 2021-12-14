@@ -51,15 +51,15 @@ For these results, the machine learning model was trained on 95% of the dataset 
 
 ### Example Case
 Take, as an example, the county of Providence, Rhode Island. We can see that the model, in general, does a good job at predicting the impact of COVID-19 over time.
-![Screenshot](https://github.com/iahuang/csc110-term-project/raw/main/github_assets/v1.png)
+![Screenshot](https://github.com/iahuang/covariant/raw/main/github_assets/v1.png)
 As we hypothetically increase the vaccination rate from 66% to 75%, we that both the overall case and death curves drop noticeably
-![Screenshot](https://github.com/iahuang/csc110-term-project/raw/main/github_assets/v2.png)
+![Screenshot](https://github.com/iahuang/covariant/raw/main/github_assets/v2.png)
 At the vaccination rate approaches 100%, we see diminishing returns in terms of predicted infection; however the over all death toll is predicted to be significantly diminished
-![Screenshot](https://github.com/iahuang/csc110-term-project/raw/main/github_assets/v3.png)
+![Screenshot](https://github.com/iahuang/covariant/raw/main/github_assets/v3.png)
 These predicted data are consistent with [CDC findings on the more recent Delta Variant](https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.html), in which evidence shows that the Delta variant is infectious, even among those who are vaccinated; however, serious health effects seem to be largely mitigated in most individuals.
 
 ## CSC110
 
 This project was originally a Semester Final Project for [CSC110](https://artsci.calendar.utoronto.ca/course/csc110y1)
 at the University of Toronto St. George. Our original project report can be found in the `github_assets`
-folder or downloaded [here](https://github.com/iahuang/csc110-term-project/raw/main/github_assets/project_report.pdf)
+folder or downloaded [here](https://github.com/iahuang/covariant/raw/main/github_assets/project_report.pdf)
