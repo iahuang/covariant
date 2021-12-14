@@ -5,7 +5,7 @@ COVariant is a machine learning and data analysis project that tries to predict 
 impact of the COVID-19 pandemic over time for some locality in the United States given only information
 such as its geographic location, population, and vaccination rate. These prediction data are
 quantified in terms of their "curve graphs", plots measuring total cases with respect to time.
-
+![Screenshot](https://github.com/iahuang/csc110-term-project/raw/main/github_assets/cover.png)
 When the input factors are set for existing US counties and then factors such as vaccination rate
 are adjusted, we are able to see how a machine learning model predicts they would have changed
 the current outcome of COVID-19. These data not only shows us what factors are likely most
@@ -41,6 +41,9 @@ This project utilizes public databases from the CDC, New York Times, and other g
 organizations. Check the References section in our formal project report below for more information
 on the respective copyright and usage information for these datasets.
 
+If for whatever reason, one or more of the dataset URLs no longer works, please create an Issue
+on this repository, and a pre-compiled dataset can be provided.
+
 ## Results
 
 ### Training Observations and Setup
@@ -54,3 +57,9 @@ As we hypothetically increase the vaccination rate from 66% to 75%, we that both
 At the vaccination rate approaches 100%, we see diminishing returns in terms of predicted infection; however the over all death toll is predicted to be significantly diminished
 ![Screenshot](https://github.com/iahuang/csc110-term-project/raw/main/github_assets/v3.png)
 These predicted data are consistent with [CDC findings on the more recent Delta Variant](https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.html), in which evidence shows that the Delta variant is infectious, even among those who are vaccinated; however, serious health effects seem to be largely mitigated in most individuals.
+
+## CSC110
+
+This project was originally a Semester Final Project for [CSC110](https://artsci.calendar.utoronto.ca/course/csc110y1)
+at the University of Toronto St. George. Our original project report can be found in the `github_assets`
+folder or downloaded [here](https://github.com/iahuang/csc110-term-project/raw/main/github_assets/project_report.pdf)
