@@ -5,7 +5,7 @@ COVariant is a machine learning and data analysis project that tries to predict 
 impact of the COVID-19 pandemic over time for some locality in the United States given only information
 such as its geographic location, population, and vaccination rate. These prediction data are
 quantified in terms of their "curve graphs", plots measuring total cases with respect to time.
-![Screenshot](https://github.com/iahuang/csc110-term-project/raw/main/github_assets/cover.png)
+![Screenshot](https://github.com/iahuang/covariant/raw/main/github_assets/cover.png)
 When the input factors are set for existing US counties and then factors such as vaccination rate
 are adjusted, we are able to see how a machine learning model predicts they would have changed
 the current outcome of COVID-19. These data not only shows us what factors are likely most
